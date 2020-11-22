@@ -185,6 +185,9 @@ public class student extends person {
 
 }
 
+实验截图：
+![image](https://github.com/vcri6124/java-5/blob/main/QFQLHKTYE%5BE_861X%60%7BI2HK4.png)
+
 
 
 实验感想：
